@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![File chooser][screenshots/File chooser.png]
-![Config][screenshots/Config.png]
-![Card][screenshots/Card.png]
+![File chooser](screenshots/File chooser.png)
+![Config](screenshots/Config.png)
+![Card](screenshots/Card.png)
 
 ## Usage
 
@@ -16,11 +16,11 @@ side first, then a comma, and then the second side. A third column containing `s
 Proper escaping is recognized, using double quotes. See the following for Quizlet export
 options:
 
-![Quizlet][screenshots/quizlet.png]
+![Quizlet](screenshots/quizlet.png)
 
 See the included `example.csv.tns` for an example file.
 
-[releases]: https://github.com/lights0123/example-nspire/releases
+[releases]: https://github.com/lights0123/n-flashcards/releases
 
 ## Prerequisites for development
 - Ndless toolchain installed and added to path

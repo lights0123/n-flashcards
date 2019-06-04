@@ -1,5 +1,6 @@
 [package]
 name = "n-flashcards"
+description = "Flashcards for the TI-Nspire"
 version = "1.0.0"
 authors = ["lights0123 <developer@lights0123.com>"]
 repository = "https://github.com/lights0123/n-flashcards"
