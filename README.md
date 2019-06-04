@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![File chooser](screenshots/File chooser.png)
+![File chooser](<screenshots/File chooser.png>)
 ![Config](screenshots/Config.png)
 ![Card](screenshots/Card.png)
 
